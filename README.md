@@ -64,6 +64,12 @@ See `/examples` folder for sample inputs and outputs.
 
 MIT License
 
+## 📝 Medium Article
+
+Read the detailed article (Turkish): [Şantiyelerde Milyonlarca Dolarlık Fire: Demirci ile Çözüm](https://medium.com/@civileng.serdar/%C5%9Fantiyelerde-milyonlarca-dolarl%C4%B1k-fire-e79b38d069db)
+
+*Learn about the financial and environmental impact of rebar cutting optimization in Turkish construction industry. The article covers real-world calculations showing how optimization can save millions of dollars and reduce carbon emissions.*
+
 ## Contact
 
 📧 civileng.serdar@gmail.com  
