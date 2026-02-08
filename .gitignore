@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+env/
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Excel geçici dosyaları
+~$*.xlsx
+~$*.xls
+
+# Test dosyaları
+tests/
+test_*.py
+
+# Kullanıcı çıktıları
+cutting_plan_*.txt
+cutting_plan_*.xlsx
+cutting_plan_*.pdf
+*.log
+
+# Örnekler yüklensin
+!examples/
+!screenshots/
